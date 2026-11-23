@@ -4,6 +4,21 @@
 
 ## 1. 설치하기
 
+설치 방법은 두 가지입니다. 편한 쪽을 하나만 고르세요.
+
+### 방법 A. GitHub에서 설치 (인터넷만 있으면 됩니다)
+
+1. Claude Code를 열고 아래 두 줄을 차례로 입력합니다.
+
+```
+/plugin marketplace add koliebe25/warm-grid-plugin
+/plugin install warm-grid-lecture-infographic@yang-lecture-tools
+```
+
+2. 설치가 끝나면 Claude Code를 한 번 껐다가 다시 켭니다.
+
+### 방법 B. zip 파일로 설치
+
 1. 받은 zip 파일을 원하는 곳에 압축을 풉니다. 예: `C:\plugins\warm-grid-plugin`
    - 설치한 뒤에는 이 폴더를 지우거나 옮기지 마세요.
 2. Claude Code를 열고 아래 두 줄을 차례로 입력합니다. 경로는 압축을 푼 위치로 바꿉니다.
