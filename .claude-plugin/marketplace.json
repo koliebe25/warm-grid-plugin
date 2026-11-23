@@ -1,0 +1,14 @@
+{
+  "name": "yang-lecture-tools",
+  "owner": {
+    "name": "Yang Project"
+  },
+  "plugins": [
+    {
+      "name": "warm-grid-lecture-infographic",
+      "source": "./",
+      "description": "따뜻한 아이보리 격자 배경과 카드 구성으로 성인 교육용 강의 인포그래픽을 만드는 스킬",
+      "version": "0.1.0"
+    }
+  ]
+}
